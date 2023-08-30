@@ -2,5 +2,5 @@
 
 Welcome to the project documentation!
 
-- [Backend Documentation](Backend/backend.md)
-- [Frontend Documentation](FrontEnd/frontend.md)
+- [Backend Documentation](Backend/README.md)
+- [Frontend Documentation](FrontEnd/README.md)

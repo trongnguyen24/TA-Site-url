@@ -10,10 +10,11 @@ Once you've extracted the archive, you could start the application by running `.
 
 And that's it! A web server will be started with the following routes:
 
-```http://127.0.0.1:8090 - if pb_public directory exists, serves the static content from it (html, css, images, etc.)
+```
+http://127.0.0.1:8090 - if pb_public directory exists, serves the static content from it (html, css, images, etc.)
 http://127.0.0.1:8090/_/ - Admin dashboard UI
-http://127.0.0.1:8090/api/ - REST API```
-
+http://127.0.0.1:8090/api/ - REST API
+```
 
 See the https://pocketbase.io/docs/ page for other platforms and more details
 

@@ -45,6 +45,13 @@ Before deploying, it's a good practice to test your app locally.
 
    Make sure your app functions correctly in the development environment.
 
+## Admin Front End account
+
+```
+User: sites@gmail.com
+pass: sites@123
+```
+
 ## Building the App
 
 Before deploying your app to a production environment, you need to build it.

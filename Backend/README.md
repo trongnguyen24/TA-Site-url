@@ -16,6 +16,13 @@ http://127.0.0.1:8090/_/ - Admin dashboard UI
 http://127.0.0.1:8090/api/ - REST API
 ```
 
+## Admin dashboard account
+
+```
+User: sites@gmail.com
+pass: sites@123456
+```
+
 See the https://pocketbase.io/docs/ page for other platforms and more details
 
 # Deploying a Pocketbase Guide

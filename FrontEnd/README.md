@@ -17,8 +17,8 @@ Before deploying your SvelteKit app, make sure to set the appropriate environmen
 2. Update the values of `PUBLIC_DEV_API_URL` and `PUBLIC_BUILD_API_URL` according to your deployment settings. For example:
 
    ```plaintext
-   PUBLIC_DEV_API_URL=https://dev-api.example.com
-   PUBLIC_BUILD_API_URL=https://api.example.com
+   PUBLIC_DEV_API_URL="http://127.0.0.1:8090"
+   PUBLIC_BUILD_API_URL="https://api.example.com"
    ```
 
    Replace the URLs with the actual URLs of your development and production APIs.

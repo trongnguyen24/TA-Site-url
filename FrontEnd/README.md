@@ -41,7 +41,7 @@ Before deploying, it's a good practice to test your app locally.
    npm run dev
    ```
 
-4. Access your app in a web browser at `http://localhost:3000` (unless a different port is specified).
+4. Access your app in a web browser at `http://localhost:5173`.
 
    Make sure your app functions correctly in the development environment.
 
